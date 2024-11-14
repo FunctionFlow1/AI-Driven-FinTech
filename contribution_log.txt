@@ -97,3 +97,4 @@ Commit 95 on 2024-11-01T13:09:23: refactor: Simplify complex conditional logic
 Commit 96 on 2025-05-02T13:06:02: docs: Add more examples to the documentation
 Commit 97 on 2025-06-30T12:31:06: chore: Update build scripts
 Commit 98 on 2025-02-11T16:44:53: docs: Add more examples to the documentation
+Commit 99 on 2024-11-14T15:05:01: feat: Add support for a new data format
