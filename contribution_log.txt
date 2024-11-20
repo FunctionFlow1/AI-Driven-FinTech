@@ -250,3 +250,4 @@ Commit 248 on 2025-05-23T17:38:53: feat: Implement user authentication
 Commit 249 on 2024-12-30T16:19:24: test: Increase test coverage for critical modules
 Commit 250 on 2025-05-09T09:28:23: docs: Add more examples to the documentation
 Commit 251 on 2025-01-14T16:22:40: fix: Resolve issue with memory leak
+Commit 252 on 2024-11-20T12:41:26: docs: Clarify API usage in the documentation
