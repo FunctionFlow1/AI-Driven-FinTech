@@ -124,3 +124,4 @@ Commit 122 on 2025-11-05T10:31:25: test: Add unit tests for new functionality
 Commit 123 on 2025-04-10T09:59:43: docs: Add more examples to the documentation
 Commit 124 on 2025-01-30T09:01:06: docs: Update README with new instructions
 Commit 125 on 2025-02-04T16:46:29: test: Increase test coverage for critical modules
+Commit 126 on 2024-11-25T10:09:29: feat: Add support for a new data format
