@@ -254,3 +254,4 @@ Commit 252 on 2024-11-20T12:41:26: docs: Clarify API usage in the documentation
 Commit 253 on 2024-12-06T14:02:45: feat: Implement user authentication
 Commit 254 on 2025-09-12T12:54:47: feat: Implement new feature for core module
 Commit 255 on 2025-01-08T14:29:50: chore: Update build scripts
+Commit 256 on 2024-12-19T16:10:47: test: Add integration tests for the API endpoints
