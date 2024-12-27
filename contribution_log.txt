@@ -137,3 +137,4 @@ Commit 135 on 2025-10-01T11:33:19: docs: Update README with new instructions
 Commit 136 on 2025-10-31T17:49:09: docs: Clarify API usage in the documentation
 Commit 137 on 2025-03-21T12:18:08: docs: Clarify API usage in the documentation
 Commit 138 on 2025-06-26T17:30:42: fix: Resolve issue with memory leak
+Commit 139 on 2024-12-27T13:39:35: docs: Update README with new instructions
