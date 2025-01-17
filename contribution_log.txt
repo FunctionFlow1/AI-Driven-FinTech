@@ -298,3 +298,4 @@ Commit 296 on 2026-02-09T16:10:31: chore: Update build scripts
 Commit 297 on 2026-02-02T14:36:00: docs: Clarify API usage in the documentation
 Commit 298 on 2026-01-02T14:29:21: fix: Correct bug in data processing pipeline
 Commit 299 on 2025-06-09T15:26:30: refactor: Simplify complex conditional logic
+Commit 300 on 2025-01-17T11:36:32: docs: Update README with new instructions
