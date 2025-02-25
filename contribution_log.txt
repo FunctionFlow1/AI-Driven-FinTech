@@ -21,3 +21,4 @@ Commit 19 on 2025-12-19T15:31:01: fix: Handle edge cases in input validation
 Commit 20 on 2025-06-20T10:52:03: docs: Clarify API usage in the documentation
 Commit 21 on 2025-09-10T17:11:58: chore: Update dependencies and configuration
 Commit 22 on 2025-08-06T14:39:34: feat: Add support for a new data format
+Commit 23 on 2025-02-25T13:49:38: test: Add unit tests for new functionality
