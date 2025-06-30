@@ -95,3 +95,4 @@ Commit 93 on 2025-11-19T14:45:18: style: Remove unused imports and variables
 Commit 94 on 2026-03-03T15:03:38: style: Remove unused imports and variables
 Commit 95 on 2024-11-01T13:09:23: refactor: Simplify complex conditional logic
 Commit 96 on 2025-05-02T13:06:02: docs: Add more examples to the documentation
+Commit 97 on 2025-06-30T12:31:06: chore: Update build scripts
