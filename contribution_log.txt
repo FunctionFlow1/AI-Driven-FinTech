@@ -193,3 +193,4 @@ Commit 191 on 2025-02-19T12:51:30: test: Add integration tests for the API endpo
 Commit 192 on 2025-03-06T13:42:57: feat: Implement user authentication
 Commit 193 on 2026-02-02T11:26:18: refactor: Simplify complex conditional logic
 Commit 194 on 2025-06-04T17:39:00: style: Apply black formatting to the codebase
+Commit 195 on 2025-08-05T13:06:58: chore: Update build scripts
