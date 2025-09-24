@@ -204,3 +204,4 @@ Commit 202 on 2026-01-26T16:28:45: chore: Update build scripts
 Commit 203 on 2026-01-27T16:35:26: refactor: Simplify complex conditional logic
 Commit 204 on 2025-11-17T09:49:58: docs: Update README with new instructions
 Commit 205 on 2026-02-17T15:28:09: test: Increase test coverage for critical modules
+Commit 206 on 2025-09-24T15:00:48: docs: Clarify API usage in the documentation
