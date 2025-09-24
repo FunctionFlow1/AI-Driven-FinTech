@@ -270,3 +270,4 @@ Commit 268 on 2026-01-26T16:48:15: test: Increase test coverage for critical mod
 Commit 269 on 2025-04-17T11:44:33: docs: Update README with new instructions
 Commit 270 on 2025-03-26T16:23:32: fix: Handle edge cases in input validation
 Commit 271 on 2025-05-21T14:48:46: refactor: Simplify complex conditional logic
+Commit 272 on 2025-09-24T15:04:14: docs: Update README with new instructions
