@@ -119,3 +119,4 @@ Commit 117 on 2025-07-10T15:00:03: style: Apply black formatting to the codebase
 Commit 118 on 2025-06-10T11:00:42: refactor: Simplify complex conditional logic
 Commit 119 on 2024-11-25T14:04:18: feat: Implement new feature for core module
 Commit 120 on 2025-07-08T14:30:34: style: Apply black formatting to the codebase
+Commit 121 on 2025-10-08T17:57:09: test: Add integration tests for the API endpoints
