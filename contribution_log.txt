@@ -154,3 +154,4 @@ Commit 152 on 2025-07-01T17:10:33: style: Apply black formatting to the codebase
 Commit 153 on 2025-08-26T15:54:09: style: Remove unused imports and variables
 Commit 154 on 2025-10-10T14:27:21: docs: Update README with new instructions
 Commit 155 on 2024-11-19T11:03:06: style: Remove unused imports and variables
+Commit 156 on 2025-11-12T09:19:35: refactor: Simplify complex conditional logic
