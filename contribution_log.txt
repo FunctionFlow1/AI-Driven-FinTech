@@ -202,3 +202,4 @@ Commit 200 on 2025-08-28T16:01:22: refactor: Improve performance of algorithm
 Commit 201 on 2026-02-09T16:18:01: chore: Update dependencies and configuration
 Commit 202 on 2026-01-26T16:28:45: chore: Update build scripts
 Commit 203 on 2026-01-27T16:35:26: refactor: Simplify complex conditional logic
+Commit 204 on 2025-11-17T09:49:58: docs: Update README with new instructions
