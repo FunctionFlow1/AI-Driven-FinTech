@@ -129,3 +129,4 @@ Commit 127 on 2025-01-02T14:38:35: feat: Add support for a new data format
 Commit 128 on 2025-10-28T14:58:20: docs: Clarify API usage in the documentation
 Commit 129 on 2025-07-29T11:11:05: feat: Implement new feature for core module
 Commit 130 on 2025-07-16T14:10:47: docs: Add more examples to the documentation
+Commit 131 on 2025-12-19T15:11:05: refactor: Simplify complex conditional logic
