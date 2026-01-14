@@ -240,3 +240,4 @@ Commit 238 on 2025-06-17T12:48:34: docs: Clarify API usage in the documentation
 Commit 239 on 2026-01-27T17:35:24: test: Increase test coverage for critical modules
 Commit 240 on 2026-02-20T17:03:40: style: Apply black formatting to the codebase
 Commit 241 on 2025-01-10T17:21:06: style: Refactor code for better readability
+Commit 242 on 2026-01-14T14:35:43: docs: Update README with new instructions
