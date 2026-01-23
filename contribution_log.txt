@@ -218,3 +218,4 @@ Commit 216 on 2025-08-20T11:06:59: refactor: Improve performance of algorithm
 Commit 217 on 2025-08-19T15:24:17: docs: Clarify API usage in the documentation
 Commit 218 on 2025-10-31T12:18:58: style: Apply black formatting to the codebase
 Commit 219 on 2025-04-25T16:46:21: refactor: Improve performance of algorithm
+Commit 220 on 2026-01-23T09:28:17: feat: Add support for a new data format
