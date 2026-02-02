@@ -295,3 +295,4 @@ Commit 293 on 2024-12-06T16:56:44: fix: Handle edge cases in input validation
 Commit 294 on 2026-01-14T09:28:06: style: Refactor code for better readability
 Commit 295 on 2026-02-24T16:18:17: refactor: Optimize query performance
 Commit 296 on 2026-02-09T16:10:31: chore: Update build scripts
+Commit 297 on 2026-02-02T14:36:00: docs: Clarify API usage in the documentation
