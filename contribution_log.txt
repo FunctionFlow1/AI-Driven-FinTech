@@ -106,3 +106,4 @@ Commit 104 on 2025-06-20T13:45:12: fix: Resolve issue with memory leak
 Commit 105 on 2025-10-31T12:26:49: docs: Update README with new instructions
 Commit 106 on 2024-12-09T17:42:00: refactor: Optimize query performance
 Commit 107 on 2025-12-22T16:04:43: refactor: Optimize query performance
+Commit 108 on 2026-02-05T17:09:45: test: Add integration tests for the API endpoints
