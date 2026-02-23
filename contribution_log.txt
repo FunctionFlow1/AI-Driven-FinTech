@@ -39,3 +39,4 @@ Commit 37 on 2025-05-05T11:00:44: refactor: Optimize query performance
 Commit 38 on 2025-02-13T13:05:59: chore: Update build scripts
 Commit 39 on 2024-11-19T15:05:20: feat: Implement user authentication
 Commit 40 on 2025-12-10T09:01:47: feat: Implement new feature for core module
+Commit 41 on 2026-02-23T13:45:10: docs: Update README with new instructions
